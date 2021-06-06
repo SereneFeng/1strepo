@@ -1,2 +1,3 @@
 print('hello bogo')
-print('test2')
+print('the scene was brighter than most.')
+print('today is a good day to be a good day. :) ')
